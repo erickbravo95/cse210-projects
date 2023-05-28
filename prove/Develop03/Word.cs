@@ -18,7 +18,7 @@ public class Word{
     
        foreach(string item in words)
         {
-                           
+          Console.Write(item);                 
         }
    
         words[randomNumber] =  "___ ";
